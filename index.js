@@ -7,7 +7,7 @@ if (name === "Susan"){
   console.log("Expected the name to be Susan")
 }
 
-if (height === 74){
+if (height === 70){
   console.log("The height is correct")
 } else {
   console.log("Expected height to be 74")
